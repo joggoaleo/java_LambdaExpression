@@ -34,9 +34,6 @@ public class LambdaMain {
 		
 		
 		
-		
-		
-		
 		B b =(name) -> {
 			Scanner scan = new Scanner(System.in);
 			System.out.printf("%s의 나이 입력?", name);
