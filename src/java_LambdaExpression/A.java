@@ -17,3 +17,8 @@ public interface A {
 	 int methodB(String a);
 	 
  }
+ 
+ interface C {
+	//입력 o, 리턴 x
+	 void methodC(int a);
+ }
